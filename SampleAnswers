@@ -6,14 +6,14 @@
 	    <title> CheatSheet.html</title>
 	    </head>
 	    <body>
-	    <p>SampleQuestionAnswers</p>
+	    <p>Sample Question Answers</p>
 	    <p>1 To customizing the sites</p>
 	    <p>2 With HTML or CSS or JavaScript</p>
 	    <p>3 Every HTTP URL conforms to the syntax of a generic URI. A generic URI is of the form: scheme:[//[user[:password]@]host[:port]][/path][?query][#fragment]</p>
 	    <p>4 A web server is a computer system that processes requests via HTTP, the basic network protocol used to distribute information on the World Wide Web.</p>
 	    <p>5 The primary function of a web server is to store, process and deliver web pages to clients.</p>
-	    <p>6 </p>
-	    <p>7 </p>
+	    <p>6 ...
+	    <p>7 ... </p>
 	    <p>8 A web browser is a software application for retrieving, presenting and traversing information resources on the World Wide Web.</p>
 	    <p>9 It means you can click on words to display a text. You also can click forward and backward</p>
 	    <p>10 Yes it is the same
